@@ -59,9 +59,6 @@
                         <i class="fa fa-download"></i> Excel
                     </a>
                     <!-- Add the import button -->
-                    <button type="submit" class="btn btn-info">
-                        <i class="fa fa-upload"></i> Import
-                    </button>
                 <?php } ?>
             </td>
         </tr>
